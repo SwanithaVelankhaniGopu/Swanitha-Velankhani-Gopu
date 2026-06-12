@@ -41,6 +41,6 @@ Comparative analysis of DIA-NN, FragPipe and MaxQuant on Data Independent Acquis
 
 📫 Connect
 
-🌐 Portfolio: SwanithaVelankhaniGopu.github.io
-💼 LinkedIn: Swanitha Velankhani Gopu
-📧 Email: gopuswanithareddy@gmail.com
+- 🌐 Portfolio: SwanithaVelankhaniGopu.github.io
+- 💼 LinkedIn: Swanitha Velankhani Gopu
+- 📧 Email: gopuswanithareddy@gmail.com
