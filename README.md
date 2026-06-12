@@ -11,24 +11,24 @@ I work at the intersection of mass spectrometry data and computational analysis,
 🔬 Research Focus
 
 
-Quantitative Proteomics — DIA-based protein quantification and benchmarking
-Mass Spectrometry Pipelines — DIA-NN, FragPipe, MaxQuant workflow development
-Reproducible Research — version-controlled analysis pipelines in R and Bash
+- Quantitative Proteomics — DIA-based protein quantification and benchmarking
+- Mass Spectrometry Pipelines — DIA-NN, FragPipe, MaxQuant workflow development
+- Reproducible Research — version-controlled analysis pipelines in R and Bash
 
 
 
 🛠️ Tools & Technologies
 
-Languages & OS
+- Languages & OS
 R · Bash / Shell · Linux · HCL
 
-Proteomics Software
+- Proteomics Software
 FragPipe · DIA-NN · MaxQuant · MSstats
 
-Analysis
+- Analysis
 ggplot2 · R Markdown · Differential Expression · Missing Value Analysis
 
-Infrastructure
+- Infrastructure
 Git · GitHub · HPC Clusters · PRIDE Archive
 
 
