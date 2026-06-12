@@ -19,13 +19,17 @@ Reproducible Research — version-controlled analysis pipelines in R and Bash
 
 🛠️ Tools & Technologies
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+Languages & OS
+R · Bash / Shell · Linux · HCL
+
+Proteomics Software
+FragPipe · DIA-NN · MaxQuant · MSstats
+
+Analysis
+ggplot2 · R Markdown · Differential Expression · Missing Value Analysis
+
+Infrastructure
+Git · GitHub · HPC Clusters · PRIDE Archive
 
 
 📌 Featured Project
@@ -37,6 +41,6 @@ Comparative analysis of DIA-NN, FragPipe and MaxQuant on Data Independent Acquis
 
 📫 Connect
 
-Show Image
-Show Image
-Show Image
+🌐 Portfolio: SwanithaVelankhaniGopu.github.io
+💼 LinkedIn: Swanitha Velankhani Gopu
+📧 Email: gopuswanithareddy@gmail.com
