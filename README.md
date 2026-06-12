@@ -5,7 +5,7 @@ Bioinformatician | Computational Proteomics Researcher
 
 Burnet Institute · Deakin University
 
-I work at the intersection of mass spectrometry data and computational analysis — building reproducible pipelines to understand proteins at scale. My current focus is benchmarking proteomics software for Data Independent Acquisition (DIA) experiments using high-resolution Orbitrap instrumentation.
+I work at the intersection of mass spectrometry data and computational analysis, building reproducible pipelines to understand proteins at scale. My current focus is benchmarking proteomics software for Data Independent Acquisition (DIA) experiments using high-resolution Orbitrap instrumentation.
 
 
 🔬 Research Focus
