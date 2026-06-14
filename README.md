@@ -20,7 +20,7 @@ I work at the intersection of mass spectrometry data and computational analysis,
 🛠️ Tools & Technologies
 
 - Languages & OS
-R · Bash / Shell · Linux · HCL
+R · Bash / Shell · Linux 
 
 - Proteomics Software
 FragPipe · DIA-NN · MaxQuant · MSstats
